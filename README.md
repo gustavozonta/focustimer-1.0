@@ -27,7 +27,7 @@ This project was developed with the technologies below:
 
 <p align="start">
 
-This is a focus timer application that allows you to set a timer, which counts down until it reaches 00:00. The technologies used in this application are listed above:
+This is a focus timer application that allows you to set a timer, which counts down until it reaches 00:00. The technologies used in this application are listed below:
 
 - Imperative Programming
 - Declarative Programming
